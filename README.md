@@ -3,7 +3,7 @@
 
 # Architecture
 
-ENTER IMAGE
+![image](https://user-images.githubusercontent.com/83971386/199697106-a69aba09-21f6-435b-987f-cdcdba2273da.png)
 
 # Prerequisites
 * Virtual Machine - Virtualbox installation - [steps](https://www.virtualbox.org/)
